@@ -1,4 +1,10 @@
-### Hi there 👋
+### Seja Bem Vindo! 👋
+
+<div>
+  <a href="https://github.com/jptiberio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jptiberio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptiberio&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 <!--
 **jptiberio/jptiberio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
